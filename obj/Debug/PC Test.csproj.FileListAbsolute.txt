@@ -1,0 +1,49 @@
+C:\Users\902\Desktop\PROJECTS\PC TEST\PC Test\bin\Debug\PC Test.exe.config
+C:\Users\902\Desktop\PROJECTS\PC TEST\PC Test\bin\Debug\PC Test.exe
+C:\Users\902\Desktop\PROJECTS\PC TEST\PC Test\bin\Debug\PC Test.pdb
+C:\Users\902\Desktop\PROJECTS\PC TEST\PC Test\obj\Debug\PC Test.csprojAssemblyReference.cache
+C:\Users\902\Desktop\PROJECTS\PC TEST\PC Test\obj\Debug\PC_Test.Form1.resources
+C:\Users\902\Desktop\PROJECTS\PC TEST\PC Test\obj\Debug\PC_Test.Properties.Resources.resources
+C:\Users\902\Desktop\PROJECTS\PC TEST\PC Test\obj\Debug\PC Test.csproj.GenerateResource.cache
+C:\Users\902\Desktop\PROJECTS\PC TEST\PC Test\obj\Debug\PC Test.csproj.CoreCompileInputs.cache
+C:\Users\902\Desktop\PROJECTS\PC TEST\PC Test\obj\Debug\PC Test.exe
+C:\Users\902\Desktop\PROJECTS\PC TEST\PC Test\obj\Debug\PC Test.pdb
+C:\Users\902\Desktop\PC TEST\PC Test\bin\Debug\PC Test.exe.config
+C:\Users\902\Desktop\PC TEST\PC Test\bin\Debug\PC Test.exe
+C:\Users\902\Desktop\PC TEST\PC Test\bin\Debug\PC Test.pdb
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Debug\PC Test.csprojAssemblyReference.cache
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Debug\PC_Test.Form1.resources
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Debug\PC_Test.Properties.Resources.resources
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Debug\PC Test.csproj.GenerateResource.cache
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Debug\PC Test.exe
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Debug\PC Test.pdb
+F:\Software Data\PC TEST\PC Test\bin\Debug\PC Test.exe.config
+F:\Software Data\PC TEST\PC Test\bin\Debug\PC Test.exe
+F:\Software Data\PC TEST\PC Test\bin\Debug\PC Test.pdb
+F:\Software Data\PC TEST\PC Test\obj\Debug\PC Test.csprojAssemblyReference.cache
+F:\Software Data\PC TEST\PC Test\obj\Debug\PC_Test.Form1.resources
+F:\Software Data\PC TEST\PC Test\obj\Debug\PC_Test.Properties.Resources.resources
+F:\Software Data\PC TEST\PC Test\obj\Debug\PC Test.csproj.GenerateResource.cache
+F:\Software Data\PC TEST\PC Test\obj\Debug\PC Test.csproj.CoreCompileInputs.cache
+F:\Software Data\PC TEST\PC Test\obj\Debug\PC Test.exe
+F:\Software Data\PC TEST\PC Test\obj\Debug\PC Test.pdb
+C:\Users\shahi\Desktop\Projects\PC Test\bin\Debug\PC Test.exe.config
+C:\Users\shahi\Desktop\Projects\PC Test\bin\Debug\PC Test.exe
+C:\Users\shahi\Desktop\Projects\PC Test\bin\Debug\PC Test.pdb
+C:\Users\shahi\Desktop\Projects\PC Test\obj\Debug\PC Test.csproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Projects\PC Test\obj\Debug\PC_Test.Form1.resources
+C:\Users\shahi\Desktop\Projects\PC Test\obj\Debug\PC_Test.Properties.Resources.resources
+C:\Users\shahi\Desktop\Projects\PC Test\obj\Debug\PC Test.csproj.GenerateResource.cache
+C:\Users\shahi\Desktop\Projects\PC Test\obj\Debug\PC Test.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Projects\PC Test\obj\Debug\PC Test.exe
+C:\Users\shahi\Desktop\Projects\PC Test\obj\Debug\PC Test.pdb
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\bin\Debug\PC Test.exe.config
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\bin\Debug\PC Test.exe
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\bin\Debug\PC Test.pdb
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Debug\PC Test.csproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Debug\PC_Test.Form1.resources
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Debug\PC_Test.Properties.Resources.resources
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Debug\PC Test.csproj.GenerateResource.cache
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Debug\PC Test.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Debug\PC Test.exe
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Debug\PC Test.pdb

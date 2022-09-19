@@ -1,0 +1,28 @@
+C:\Users\902\Desktop\PC TEST\PC Test\bin\Release\PC Test.exe.config
+C:\Users\902\Desktop\PC TEST\PC Test\bin\Release\PC Test.exe
+C:\Users\902\Desktop\PC TEST\PC Test\bin\Release\PC Test.pdb
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Release\PC Test.csprojAssemblyReference.cache
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Release\PC_Test.Form1.resources
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Release\PC_Test.Properties.Resources.resources
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Release\PC Test.csproj.GenerateResource.cache
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Release\PC Test.exe
+C:\Users\902\Desktop\PC TEST\PC Test\obj\Release\PC Test.pdb
+F:\Shahid\Backup's\PC TEST's\Old\PC TEST\PC Test\bin\Release\PC Test.exe.config
+F:\Shahid\Backup's\PC TEST's\Old\PC TEST\PC Test\bin\Release\PC Test.exe
+F:\Shahid\Backup's\PC TEST's\Old\PC TEST\PC Test\bin\Release\PC Test.pdb
+F:\Shahid\Backup's\PC TEST's\Old\PC TEST\PC Test\obj\Release\PC Test.csprojAssemblyReference.cache
+F:\Shahid\Backup's\PC TEST's\Old\PC TEST\PC Test\obj\Release\PC_Test.Form1.resources
+F:\Shahid\Backup's\PC TEST's\Old\PC TEST\PC Test\obj\Release\PC_Test.Properties.Resources.resources
+F:\Shahid\Backup's\PC TEST's\Old\PC TEST\PC Test\obj\Release\PC Test.csproj.GenerateResource.cache
+F:\Shahid\Backup's\PC TEST's\Old\PC TEST\PC Test\obj\Release\PC Test.exe
+F:\Shahid\Backup's\PC TEST's\Old\PC TEST\PC Test\obj\Release\PC Test.pdb
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\bin\Release\PC Test.exe.config
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\bin\Release\PC Test.exe
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\bin\Release\PC Test.pdb
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Release\PC Test.csproj.AssemblyReference.cache
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Release\PC_Test.Form1.resources
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Release\PC_Test.Properties.Resources.resources
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Release\PC Test.csproj.GenerateResource.cache
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Release\PC Test.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Release\PC Test.exe
+C:\Users\shahi\Desktop\Projects\Sub_Test_DeskApp\obj\Release\PC Test.pdb
