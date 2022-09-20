@@ -31,3 +31,7 @@ To run the code all you need to do:
 ## Subjective Evaluation Demo
 
 - https://drive.google.com/file/d/1iyUhYoHwWuuii1eC-iXAiA7wEa9_Vfhp/view?usp=sharing
+
+## License
+
+ [MIT License](LICENSE)
