@@ -2,7 +2,7 @@
 
 ## Project Details
 
-This repository contains a small desktop application that I implemented for my own research work in order to compare different Tone Mapping Operators (TMOs), used to convert HDR images to LDR images, with the Enhanced Local Tone Mapping (ELTM) Operator which I selected for a small project in my research and implemented, soon I will upload the code here.
+This repository contains a small desktop application that is implemented for own research work in order to compare different Tone Mapping Operators (TMOs), used to convert HDR images to LDR images, with the Enhanced Local Tone Mapping (ELTM) Operator which I selected for a small project in my research.
 
 ## Folder Settings
 
