@@ -30,7 +30,7 @@ To run the code all you need to do:
 
 ## Subjective Evaluation Demo
 
-- [Demo Link](https://drive.google.com/file/d/1iyUhYoHwWuuii1eC-iXAiA7wEa9_Vfhp/view?usp=sharing)
+<img src= "https://github.com/abbassi007/Desktop-Application-for-Subjective-Evalution/blob/master/gif/Demo.gif" height ="300" width="500">
 
 ## License
 
